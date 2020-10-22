@@ -1,0 +1,436 @@
+state_x,date,Total positive,Total negaitive,Total test
+Alabama,April,6038,73879,79917
+Alabama,August,38335,257485,289359
+Alabama,July,49678,233137,280879
+Alabama,June,20142,168957,184836
+Alabama,March,981,6288,7269
+Alabama,May,10884,119473,134111
+Alabama,October,19827,118084,133536
+Alabama,September,28643,135246,155658
+Alaska,April,236,15170,15406
+Alaska,August,2448,113076,115524
+Alaska,July,2737,118184,120921
+Alaska,June,506,59984,60490
+Alaska,March,119,3548,3667
+Alaska,May,79,32497,32576
+Alaska,October,3652,85666,89318
+Alaska,September,2655,105922,108577
+Arizona,April,6359,46056,52415
+Arizona,August,27825,242861,268955
+Arizona,July,94795,306592,401821
+Arizona,June,59279,247871,306716
+Arizona,March,1287,18055,19342
+Arizona,May,12288,141132,153420
+Arizona,October,14430,176034,189770
+Arizona,September,16672,241047,254877
+Arkansas,April,2732,39165,41897
+Arkansas,August,18713,204853,224318
+Arkansas,July,21734,170532,191514
+Arkansas,June,13524,168164,181688
+Arkansas,March,523,5947,6470
+Arkansas,May,3998,77138,81136
+Arkansas,October,16744,188127,201935
+Arkansas,September,22473,283296,302682
+California,April,41435,554648,596083
+California,August,210497,3351767,3562264
+California,July,264856,3379046,3643902
+California,June,118149,2104142,2222291
+California,March,7429,21310,28739
+California,May,61666,1257845,1319511
+California,October,63452,2420416,2483868
+California,September,106540,3225357,3331897
+Colorado,April,12131,43564,60752
+Colorado,August,11019,172531,323979
+Colorado,July,13693,188796,290010
+Colorado,June,6413,136817,183325
+Colorado,March,2625,12718,17107
+Colorado,May,11340,98228,127629
+Colorado,October,16349,171779,367270
+Colorado,September,12802,184454,338378
+Connecticut,April,24572,56404,80976
+Connecticut,August,3069,376031,379100
+Connecticut,July,3296,312342,315638
+Connecticut,June,4313,223999,228312
+Connecticut,March,3128,13029,16157
+Connecticut,May,14501,138412,152913
+Connecticut,October,6905,453364,460269
+Connecticut,September,4671,416226,420897
+Delaware,April,4415,13390,17805
+Delaware,August,2641,53161,55802
+Delaware,July,3314,66852,70166
+Delaware,June,1976,48234,50210
+Delaware,March,319,3679,3998
+Delaware,May,4764,34087,38851
+Delaware,October,2712,41452,44164
+Delaware,September,3184,46529,49713
+District of Columbia,April,3828,12494,16322
+District of Columbia,August,1866,100075,101941
+District of Columbia,July,1799,89647,91446
+District of Columbia,June,1526,49286,50812
+District of Columbia,March,495,3254,3749
+District of Columbia,May,4478,21926,26404
+District of Columbia,October,1119,84828,85947
+District of Columbia,September,1334,95844,97178
+Florida,April,27352,294430,321782
+Florida,August,153085,834366,987451
+Florida,July,317952,1365141,1683093
+Florida,June,96271,827375,923646
+Florida,March,6336,54261,60597
+Florida,May,22473,616471,638944
+Florida,October,53873,412890,466763
+Florida,September,83045,602600,685645
+Georgia,April,22226,110637,132863
+Georgia,August,84119,684828,768947
+Georgia,July,105061,635748,740809
+Georgia,June,34305,334048,368353
+Georgia,March,3927,12252,16179
+Georgia,May,20831,295650,316481
+Georgia,October,24412,369745,394157
+Georgia,September,47555,542490,590045
+Guam,April,77,1591,1668
+Guam,August,1039,14963,16002
+Guam,July,97,8470,8567
+Guam,June,86,7127,7213
+Guam,March,66,348,414
+Guam,May,27,3967,3994
+Guam,October,1398,8994,10392
+Guam,September,1093,11137,12230
+Hawaii,April,409,21556,22807
+Hawaii,August,6350,69001,106303
+Hawaii,July,1089,42536,59158
+Hawaii,June,249,22874,36859
+Hawaii,March,204,8471,8827
+Hawaii,May,38,23942,21742
+Hawaii,October,1793,10942,67917
+Hawaii,September,4130,95831,155685
+Idaho,April,1569,21565,22981
+Idaho,August,11621,65282,75818
+Idaho,July,14494,75313,89121
+Idaho,June,2913,39693,42327
+Idaho,March,415,5204,5619
+Idaho,May,855,16996,17743
+Idaho,October,12356,38605,48676
+Idaho,September,9567,44861,53004
+Illinois,April,46924,187718,234642
+Illinois,August,56607,1308407,1365014
+Illinois,July,35880,1060951,1096831
+Illinois,June,23978,681781,705759
+Illinois,March,5990,29107,35097
+Illinois,May,67342,561050,628392
+Illinois,October,58699,1200891,1259590
+Illinois,September,59038,1502410,1561448
+Indiana,April,15676,65949,103033
+Indiana,August,28042,301522,533067
+Indiana,July,20560,242627,379812
+Indiana,June,11020,211630,280118
+Indiana,March,2159,11214,24323
+Indiana,May,16739,149809,208962
+Indiana,October,30645,161855,418144
+Indiana,September,25823,277080,603930
+Iowa,April,6648,28634,35282
+Iowa,August,18746,127714,146460
+Iowa,July,15575,154649,170224
+Iowa,June,9455,138437,147892
+Iowa,March,497,6873,7370
+Iowa,May,12407,101222,113629
+Iowa,October,17415,55436,72851
+Iowa,September,22268,121727,143995
+Kansas,April,3810,22392,26202
+Kansas,August,14800,105942,120742
+Kansas,July,13369,102413,115782
+Kansas,June,4724,77052,81776
+Kansas,March,428,4992,5420
+Kansas,May,5481,57842,63323
+Kansas,October,13219,63725,76944
+Kansas,September,17137,91064,108201
+Kentucky,April,4059,43232,47291
+Kentucky,August,18245,215252,231060
+Kentucky,July,14527,202362,215676
+Kentucky,June,5920,151261,156814
+Kentucky,March,480,6323,6803
+Kentucky,May,5165,154487,159485
+Kentucky,October,20704,315015,330910
+Kentucky,September,20444,542845,558851
+Louisiana,April,22764,99578,122342
+Louisiana,August,32614,498633,531247
+Louisiana,July,58185,555547,613732
+Louisiana,June,18179,335223,353402
+Louisiana,March,5237,33725,38962
+Louisiana,May,11915,201885,213800
+Louisiana,October,12311,285542,297853
+Louisiana,September,18564,426550,445114
+Maine,April,792,13458,14250
+Maine,August,614,95154,95768
+Maine,July,659,71556,72215
+Maine,June,928,44415,45343
+Maine,March,303,6046,6349
+Maine,May,1230,27738,28968
+Maine,October,598,118396,118994
+Maine,September,865,171300,172165
+Maryland,April,20082,77749,103067
+Maryland,August,19903,399759,729623
+Maryland,July,20787,354549,562204
+Maryland,June,14781,219193,303883
+Maryland,March,1660,14851,15258
+Maryland,May,31036,156486,224811
+Maryland,October,12019,194879,515886
+Maryland,September,16476,270678,667067
+Massachusetts,April,55684,173002,289737
+Massachusetts,August,10921,543166,801930
+Massachusetts,February,0,0,15
+Massachusetts,July,8730,331559,498946
+Massachusetts,June,11917,243371,354116
+Massachusetts,March,6521,40440,63975
+Massachusetts,May,34760,282446,395703
+Massachusetts,October,13348,302781,1255424
+Massachusetts,September,3583,490465,1646191
+Michigan,April,28851,142610,171461
+Michigan,August,22451,897533,919984
+Michigan,July,19846,779544,799390
+Michigan,June,7160,407137,414297
+Michigan,March,18282,26298,44580
+Michigan,May,16063,398248,414311
+Michigan,October,27980,709949,737929
+Michigan,September,24989,858442,883431
+Minnesota,April,7200,52414,59614
+Minnesota,August,21401,272268,464810
+Minnesota,July,18160,210878,419600
+Minnesota,June,9981,311880,321861
+Minnesota,March,915,20899,21814
+Minnesota,May,18206,183784,201990
+Minnesota,October,26397,259167,492832
+Minnesota,September,23270,263408,540441
+Mississippi,April,5878,55988,61866
+Mississippi,August,24203,95157,119360
+Mississippi,July,31500,135459,166959
+Mississippi,June,11746,103963,115709
+Mississippi,March,937,3537,4474
+Mississippi,May,8686,96811,105497
+Mississippi,October,13132,90701,103833
+Mississippi,September,15240,147928,163168
+Missouri,April,6235,58511,64881
+Missouri,August,34374,261808,398436
+Missouri,July,28772,284994,471477
+Missouri,June,8404,171042,240564
+Missouri,March,1327,14614,19166
+Missouri,May,5585,107289,99580
+Missouri,October,33512,56727,449305
+Missouri,September,41416,280014,553242
+Montana,April,269,9227,9496
+Montana,August,3456,76812,80268
+Montana,July,2998,76111,79109
+Montana,June,452,50611,51063
+Montana,March,183,4200,4383
+Montana,May,62,25822,25884
+Montana,October,11022,90841,101863
+Montana,September,5650,87270,92920
+Nebraska,April,3612,18606,22218
+Nebraska,August,8280,82115,90395
+Nebraska,July,6724,86075,92799
+Nebraska,June,5137,71878,77015
+Nebraska,March,172,2914,3086
+Nebraska,May,10121,65700,75821
+Nebraska,October,13773,77258,91031
+Nebraska,September,10998,83289,94287
+Nevada,April,3885,26307,30192
+Nevada,August,21140,106878,128018
+Nevada,July,29632,162703,192335
+Nevada,June,9863,125145,135008
+Nevada,March,1112,10667,11779
+Nevada,May,3595,96979,100574
+Nevada,October,11519,41988,53507
+Nevada,September,10752,89423,100175
+New Hampshire,April,1740,14454,17623
+New Hampshire,August,731,51876,94067
+New Hampshire,July,784,39227,82634
+New Hampshire,June,1215,46803,71535
+New Hampshire,March,312,5403,6234
+New Hampshire,May,2491,45868,55996
+New Hampshire,October,1480,39613,98087
+New Hampshire,September,991,61806,117380
+New Jersey,April,99956,102189,202145
+New Jersey,August,10300,751289,761589
+New Jersey,July,9993,663962,673955
+New Jersey,June,11222,665007,676229
+New Jersey,March,18696,27077,45773
+New Jersey,May,41793,456434,498227
+New Jersey,October,16918,605350,622268
+New Jersey,September,13315,741799,755114
+New Mexico,April,2932,49626,52558
+New Mexico,August,4895,200401,205296
+New Mexico,July,8406,205511,213917
+New Mexico,June,4358,138915,143273
+New Mexico,March,281,12177,12458
+New Mexico,May,4411,124951,129362
+New Mexico,October,8145,138137,146282
+New Mexico,September,3874,154179,158053
+New York,April,228577,466873,695450
+New York,August,19742,2354054,2373796
+New York,July,21560,1952739,1974299
+New York,June,22684,1828429,1851113
+New York,March,75789,129343,205132
+New York,May,66398,1096791,1163189
+New York,October,27831,2297571,2325402
+New York,September,23893,2460387,2484280
+North Carolina,April,9011,95919,104930
+North Carolina,August,45165,453905,499070
+North Carolina,July,57478,789591,847069
+North Carolina,June,36081,457663,493744
+North Carolina,March,1497,21608,23105
+North Carolina,May,18080,270173,288253
+North Carolina,October,38118,598804,636922
+North Carolina,September,43319,735380,778699
+North Dakota,April,950,22262,24928
+North Dakota,August,5349,42450,154681
+North Dakota,July,2887,44949,123041
+North Dakota,June,998,33083,85809
+North Dakota,March,117,4125,4068
+North Dakota,May,1509,43070,63656
+North Dakota,October,11820,21260,132877
+North Dakota,September,10036,29701,157297
+Northern Mariana Islands,April,12,585,597
+Northern Mariana Islands,August,14,1765,1779
+Northern Mariana Islands,July,12,3532,3544
+Northern Mariana Islands,June,8,2036,2044
+Northern Mariana Islands,March,2,0,2
+Northern Mariana Islands,May,8,5566,5574
+Northern Mariana Islands,October,18,611,629
+Northern Mariana Islands,September,14,1628,1642
+Ohio,April,15828,88871,104699
+Ohio,August,31998,743772,775770
+Ohio,July,39370,641035,680405
+Ohio,June,16276,380745,397021
+Ohio,March,2199,26982,29181
+Ohio,May,17486,239532,257018
+Ohio,October,31652,781827,813479
+Ohio,September,30830,891001,921831
+Oklahoma,April,3053,58575,61628
+Oklahoma,August,22246,217454,239700
+Oklahoma,July,22730,261251,283981
+Oklahoma,June,7251,141140,148391
+Oklahoma,March,564,1229,1793
+Oklahoma,May,2888,126896,129784
+Oklahoma,October,22349,240633,262982
+Oklahoma,September,28466,310284,338750
+Oregon,April,1820,40386,42206
+Oregon,August,8221,144814,153035
+Oregon,July,9836,156723,166559
+Oregon,June,4413,104020,108433
+Oregon,March,687,13107,13794
+Oregon,May,1733,71436,73169
+Oregon,October,6627,102817,109444
+Oregon,September,6796,121849,128645
+Pennsylvania,April,40920,137957,178877
+Pennsylvania,August,21977,419371,441348
+Pennsylvania,July,25442,427243,452685
+Pennsylvania,June,14060,294470,308530
+Pennsylvania,March,4841,37645,42486
+Pennsylvania,May,26783,207509,234292
+Pennsylvania,October,25905,276512,302417
+Pennsylvania,September,24942,354932,379874
+Puerto Rico,April,1300,8118,9418
+Puerto Rico,August,16418,0,16418
+Puerto Rico,July,9316,113286,122602
+Puerto Rico,June,3689,132264,135953
+Puerto Rico,March,234,1186,1420
+Puerto Rico,May,2237,51109,53346
+Puerto Rico,October,9888,0,9888
+Puerto Rico,September,15556,0,15556
+Rhode Island,April,8448,46556,62453
+Rhode Island,August,2927,64954,160288
+Rhode Island,July,2111,49822,108972
+Rhode Island,June,1923,38382,91506
+Rhode Island,March,566,3542,3897
+Rhode Island,May,5972,48690,97298
+Rhode Island,October,3901,56553,215498
+Rhode Island,September,2799,63905,245408
+South Carolina,April,5012,45801,50813
+South Carolina,August,29976,226737,256713
+South Carolina,July,52617,259646,312263
+South Carolina,June,24538,155818,180356
+South Carolina,March,1083,4611,5694
+South Carolina,May,5766,137938,143704
+South Carolina,October,17551,293273,310824
+South Carolina,September,28950,330600,359550
+South Dakota,April,2341,10970,13311
+South Dakota,August,4745,30149,34894
+South Dakota,July,2000,29547,31547
+South Dakota,June,1771,34189,35960
+South Dakota,March,108,3604,3712
+South Dakota,May,2544,24556,27100
+South Dakota,October,12068,31889,43957
+South Dakota,September,8880,35360,44240
+Tennessee,April,8496,141770,150266
+Tennessee,August,48974,638620,687594
+Tennessee,July,62450,657828,720278
+Tennessee,June,20503,336647,357150
+Tennessee,March,2238,25121,27359
+Tennessee,May,12271,246080,258351
+Tennessee,October,37430,474950,512380
+Tennessee,September,41206,642151,683357
+Texas,April,24821,262487,287308
+Texas,August,192023,1099778,1291801
+Texas,July,260960,1539510,1800470
+Texas,June,95699,821718,917417
+Texas,March,3265,39726,42991
+Texas,May,36200,585365,621565
+Texas,October,84590,1122579,1207169
+Texas,September,135998,1139606,1275604
+Utah,April,3785,86203,89988
+Utah,August,11911,119034,130945
+Utah,July,17979,170178,188157
+Utah,June,12420,114419,126839
+Utah,March,886,17626,18512
+Utah,May,5125,100288,105413
+Utah,October,23601,132853,156454
+Utah,September,20935,149180,170115
+Vermont,April,559,10408,10967
+Vermont,August,210,41143,41353
+Vermont,July,206,28398,28604
+Vermont,June,227,31567,31794
+Vermont,March,320,3949,4269
+Vermont,May,102,18632,18734
+Vermont,October,204,16782,16986
+Vermont,September,128,26878,27006
+Virginia,April,14596,63512,91522
+Virginia,August,30706,445098,473931
+Virginia,July,27101,438612,451956
+Virginia,June,18180,311463,301565
+Virginia,March,1250,12130,14938
+Virginia,May,28761,195121,240924
+Virginia,October,19483,345353,361952
+Virginia,September,27677,443417,468697
+Washington,April,8670,122522,131192
+Washington,August,14370,350682,365052
+Washington,February,18,24,42
+Washington,January,0,0,0
+Washington,July,23508,393010,416518
+Washington,June,13564,282338,295902
+Washington,March,6931,81439,88370
+Washington,May,7259,157019,164278
+Washington,October,11619,378318,389937
+Washington,September,12722,380323,393045
+West Virginia,April,956,39442,40398
+West Virginia,August,3608,148451,152059
+West Virginia,July,3737,108487,112224
+West Virginia,June,895,73247,74142
+West Virginia,March,162,3901,4063
+West Virginia,May,892,52189,53081
+West Virginia,October,4671,125570,130241
+West Virginia,September,5598,119923,125521
+Wisconsin,April,6467,52019,58486
+Wisconsin,August,23634,290705,314339
+Wisconsin,July,25272,342610,367882
+Wisconsin,June,11098,289436,300534
+Wisconsin,March,1584,17356,18940
+Wisconsin,May,12512,180709,193221
+Wisconsin,October,58705,289636,348341
+Wisconsin,September,48555,250393,298948
+Wyoming,April,450,6903,7353
+Wyoming,August,1116,21858,22974
+Wyoming,July,1239,18388,19627
+Wyoming,June,584,8695,9279
+Wyoming,March,109,1999,2108
+Wyoming,May,344,14588,14932
+Wyoming,October,3578,13542,17120
+Wyoming,September,2106,22781,24887
