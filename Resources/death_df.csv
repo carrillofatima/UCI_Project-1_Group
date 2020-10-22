@@ -1,0 +1,455 @@
+state,month,deaths
+Alabama,3,19
+Alabama,4,30
+Alabama,5,31
+Alabama,6,30
+Alabama,7,31
+Alabama,8,31
+Alabama,9,30
+Alabama,10,19
+Alaska,3,20
+Alaska,4,30
+Alaska,5,31
+Alaska,6,30
+Alaska,7,31
+Alaska,8,31
+Alaska,9,30
+Alaska,10,19
+Arizona,1,6
+Arizona,2,29
+Arizona,3,31
+Arizona,4,30
+Arizona,5,31
+Arizona,6,30
+Arizona,7,31
+Arizona,8,31
+Arizona,9,30
+Arizona,10,19
+Arkansas,3,21
+Arkansas,4,30
+Arkansas,5,31
+Arkansas,6,30
+Arkansas,7,31
+Arkansas,8,31
+Arkansas,9,30
+Arkansas,10,19
+California,1,7
+California,2,29
+California,3,31
+California,4,30
+California,5,31
+California,6,30
+California,7,31
+California,8,31
+California,9,30
+California,10,19
+Colorado,3,27
+Colorado,4,30
+Colorado,5,31
+Colorado,6,30
+Colorado,7,31
+Colorado,8,31
+Colorado,9,30
+Colorado,10,19
+Connecticut,3,24
+Connecticut,4,30
+Connecticut,5,31
+Connecticut,6,30
+Connecticut,7,31
+Connecticut,8,31
+Connecticut,9,30
+Connecticut,10,19
+Delaware,3,21
+Delaware,4,30
+Delaware,5,31
+Delaware,6,30
+Delaware,7,31
+Delaware,8,31
+Delaware,9,30
+Delaware,10,19
+District of Columbia,3,25
+District of Columbia,4,30
+District of Columbia,5,31
+District of Columbia,6,30
+District of Columbia,7,31
+District of Columbia,8,31
+District of Columbia,9,30
+District of Columbia,10,19
+Florida,3,31
+Florida,4,30
+Florida,5,31
+Florida,6,30
+Florida,7,31
+Florida,8,31
+Florida,9,30
+Florida,10,19
+Georgia,3,30
+Georgia,4,30
+Georgia,5,31
+Georgia,6,30
+Georgia,7,31
+Georgia,8,31
+Georgia,9,30
+Georgia,10,19
+Guam,3,17
+Guam,4,30
+Guam,5,31
+Guam,6,30
+Guam,7,31
+Guam,8,31
+Guam,9,30
+Guam,10,19
+Hawaii,3,26
+Hawaii,4,30
+Hawaii,5,31
+Hawaii,6,30
+Hawaii,7,31
+Hawaii,8,31
+Hawaii,9,30
+Hawaii,10,19
+Idaho,3,19
+Idaho,4,30
+Idaho,5,31
+Idaho,6,30
+Idaho,7,31
+Idaho,8,31
+Idaho,9,30
+Idaho,10,19
+Illinois,1,8
+Illinois,2,29
+Illinois,3,31
+Illinois,4,30
+Illinois,5,31
+Illinois,6,30
+Illinois,7,31
+Illinois,8,31
+Illinois,9,30
+Illinois,10,19
+Indiana,3,26
+Indiana,4,30
+Indiana,5,31
+Indiana,6,30
+Indiana,7,31
+Indiana,8,31
+Indiana,9,30
+Indiana,10,19
+Iowa,3,24
+Iowa,4,30
+Iowa,5,31
+Iowa,6,30
+Iowa,7,31
+Iowa,8,31
+Iowa,9,30
+Iowa,10,19
+Kansas,3,25
+Kansas,4,30
+Kansas,5,31
+Kansas,6,30
+Kansas,7,31
+Kansas,8,31
+Kansas,9,30
+Kansas,10,19
+Kentucky,3,26
+Kentucky,4,30
+Kentucky,5,31
+Kentucky,6,30
+Kentucky,7,31
+Kentucky,8,31
+Kentucky,9,30
+Kentucky,10,19
+Louisiana,3,23
+Louisiana,4,30
+Louisiana,5,31
+Louisiana,6,30
+Louisiana,7,31
+Louisiana,8,31
+Louisiana,9,30
+Louisiana,10,19
+Maine,3,20
+Maine,4,30
+Maine,5,31
+Maine,6,30
+Maine,7,31
+Maine,8,31
+Maine,9,30
+Maine,10,19
+Maryland,3,27
+Maryland,4,30
+Maryland,5,31
+Maryland,6,30
+Maryland,7,31
+Maryland,8,31
+Maryland,9,30
+Maryland,10,19
+Massachusetts,2,29
+Massachusetts,3,31
+Massachusetts,4,30
+Massachusetts,5,31
+Massachusetts,6,30
+Massachusetts,7,31
+Massachusetts,8,31
+Massachusetts,9,30
+Massachusetts,10,19
+Michigan,3,22
+Michigan,4,30
+Michigan,5,31
+Michigan,6,30
+Michigan,7,31
+Michigan,8,31
+Michigan,9,30
+Michigan,10,19
+Minnesota,3,26
+Minnesota,4,30
+Minnesota,5,31
+Minnesota,6,30
+Minnesota,7,31
+Minnesota,8,31
+Minnesota,9,30
+Minnesota,10,19
+Mississippi,3,21
+Mississippi,4,30
+Mississippi,5,31
+Mississippi,6,30
+Mississippi,7,31
+Mississippi,8,31
+Mississippi,9,30
+Mississippi,10,19
+Missouri,3,25
+Missouri,4,30
+Missouri,5,31
+Missouri,6,30
+Missouri,7,31
+Missouri,8,31
+Missouri,9,30
+Missouri,10,19
+Montana,3,19
+Montana,4,30
+Montana,5,31
+Montana,6,30
+Montana,7,31
+Montana,8,31
+Montana,9,30
+Montana,10,19
+Nebraska,2,13
+Nebraska,3,31
+Nebraska,4,30
+Nebraska,5,31
+Nebraska,6,30
+Nebraska,7,31
+Nebraska,8,31
+Nebraska,9,30
+Nebraska,10,19
+Nevada,3,27
+Nevada,4,30
+Nevada,5,31
+Nevada,6,30
+Nevada,7,31
+Nevada,8,31
+Nevada,9,30
+Nevada,10,19
+New Hampshire,3,30
+New Hampshire,4,30
+New Hampshire,5,31
+New Hampshire,6,30
+New Hampshire,7,31
+New Hampshire,8,31
+New Hampshire,9,30
+New Hampshire,10,19
+New Jersey,3,28
+New Jersey,4,30
+New Jersey,5,31
+New Jersey,6,30
+New Jersey,7,31
+New Jersey,8,31
+New Jersey,9,30
+New Jersey,10,19
+New Mexico,3,21
+New Mexico,4,30
+New Mexico,5,31
+New Mexico,6,30
+New Mexico,7,31
+New Mexico,8,31
+New Mexico,9,30
+New Mexico,10,19
+New York,3,31
+New York,4,30
+New York,5,31
+New York,6,30
+New York,7,31
+New York,8,31
+New York,9,30
+New York,10,19
+North Carolina,3,29
+North Carolina,4,30
+North Carolina,5,31
+North Carolina,6,30
+North Carolina,7,31
+North Carolina,8,31
+North Carolina,9,30
+North Carolina,10,19
+North Dakota,3,21
+North Dakota,4,30
+North Dakota,5,31
+North Dakota,6,30
+North Dakota,7,31
+North Dakota,8,31
+North Dakota,9,30
+North Dakota,10,19
+Northern Mariana Islands,3,4
+Northern Mariana Islands,4,30
+Northern Mariana Islands,5,31
+Northern Mariana Islands,6,30
+Northern Mariana Islands,7,31
+Northern Mariana Islands,8,31
+Northern Mariana Islands,9,30
+Northern Mariana Islands,10,19
+Ohio,3,23
+Ohio,4,30
+Ohio,5,31
+Ohio,6,30
+Ohio,7,31
+Ohio,8,31
+Ohio,9,30
+Ohio,10,19
+Oklahoma,3,26
+Oklahoma,4,30
+Oklahoma,5,31
+Oklahoma,6,30
+Oklahoma,7,31
+Oklahoma,8,31
+Oklahoma,9,30
+Oklahoma,10,19
+Oregon,2,2
+Oregon,3,31
+Oregon,4,30
+Oregon,5,31
+Oregon,6,30
+Oregon,7,31
+Oregon,8,31
+Oregon,9,30
+Oregon,10,19
+Pennsylvania,3,26
+Pennsylvania,4,30
+Pennsylvania,5,31
+Pennsylvania,6,30
+Pennsylvania,7,31
+Pennsylvania,8,31
+Pennsylvania,9,30
+Pennsylvania,10,19
+Puerto Rico,3,19
+Puerto Rico,4,30
+Puerto Rico,5,31
+Puerto Rico,6,30
+Puerto Rico,7,31
+Puerto Rico,8,31
+Puerto Rico,9,30
+Puerto Rico,10,19
+Rhode Island,3,31
+Rhode Island,4,30
+Rhode Island,5,31
+Rhode Island,6,30
+Rhode Island,7,31
+Rhode Island,8,31
+Rhode Island,9,30
+Rhode Island,10,19
+South Carolina,3,26
+South Carolina,4,30
+South Carolina,5,31
+South Carolina,6,30
+South Carolina,7,31
+South Carolina,8,31
+South Carolina,9,30
+South Carolina,10,19
+South Dakota,3,22
+South Dakota,4,30
+South Dakota,5,31
+South Dakota,6,30
+South Dakota,7,31
+South Dakota,8,31
+South Dakota,9,30
+South Dakota,10,19
+Tennessee,3,27
+Tennessee,4,30
+Tennessee,5,31
+Tennessee,6,30
+Tennessee,7,31
+Tennessee,8,31
+Tennessee,9,30
+Tennessee,10,19
+Texas,2,18
+Texas,3,31
+Texas,4,30
+Texas,5,31
+Texas,6,30
+Texas,7,31
+Texas,8,31
+Texas,9,30
+Texas,10,19
+Utah,2,5
+Utah,3,31
+Utah,4,30
+Utah,5,31
+Utah,6,30
+Utah,7,31
+Utah,8,31
+Utah,9,30
+Utah,10,19
+Vermont,3,25
+Vermont,4,30
+Vermont,5,31
+Vermont,6,30
+Vermont,7,31
+Vermont,8,31
+Vermont,9,30
+Vermont,10,19
+Virgin Islands,3,18
+Virgin Islands,4,30
+Virgin Islands,5,31
+Virgin Islands,6,30
+Virgin Islands,7,31
+Virgin Islands,8,31
+Virgin Islands,9,30
+Virgin Islands,10,19
+Virginia,3,25
+Virginia,4,30
+Virginia,5,31
+Virginia,6,30
+Virginia,7,31
+Virginia,8,31
+Virginia,9,30
+Virginia,10,19
+Washington,1,11
+Washington,2,29
+Washington,3,31
+Washington,4,30
+Washington,5,31
+Washington,6,30
+Washington,7,31
+Washington,8,31
+Washington,9,30
+Washington,10,19
+West Virginia,3,15
+West Virginia,4,30
+West Virginia,5,31
+West Virginia,6,30
+West Virginia,7,31
+West Virginia,8,31
+West Virginia,9,30
+West Virginia,10,19
+Wisconsin,2,25
+Wisconsin,3,31
+Wisconsin,4,30
+Wisconsin,5,31
+Wisconsin,6,30
+Wisconsin,7,31
+Wisconsin,8,31
+Wisconsin,9,30
+Wisconsin,10,19
+Wyoming,3,21
+Wyoming,4,30
+Wyoming,5,31
+Wyoming,6,30
+Wyoming,7,31
+Wyoming,8,31
+Wyoming,9,30
+Wyoming,10,19
