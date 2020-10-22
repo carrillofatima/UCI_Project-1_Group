@@ -1,455 +1,455 @@
 state,month,deaths
-Alabama,3,19
-Alabama,4,30
-Alabama,5,31
-Alabama,6,30
-Alabama,7,31
-Alabama,8,31
-Alabama,9,30
-Alabama,10,19
-Alaska,3,20
-Alaska,4,30
-Alaska,5,31
-Alaska,6,30
-Alaska,7,31
-Alaska,8,31
-Alaska,9,30
-Alaska,10,19
-Arizona,1,6
-Arizona,2,29
-Arizona,3,31
-Arizona,4,30
-Arizona,5,31
-Arizona,6,30
-Arizona,7,31
-Arizona,8,31
-Arizona,9,30
-Arizona,10,19
-Arkansas,3,21
-Arkansas,4,30
-Arkansas,5,31
-Arkansas,6,30
-Arkansas,7,31
-Arkansas,8,31
-Arkansas,9,30
-Arkansas,10,19
-California,1,7
-California,2,29
-California,3,31
-California,4,30
-California,5,31
-California,6,30
-California,7,31
-California,8,31
-California,9,30
-California,10,19
-Colorado,3,27
-Colorado,4,30
-Colorado,5,31
-Colorado,6,30
-Colorado,7,31
-Colorado,8,31
-Colorado,9,30
-Colorado,10,19
-Connecticut,3,24
-Connecticut,4,30
-Connecticut,5,31
-Connecticut,6,30
-Connecticut,7,31
-Connecticut,8,31
-Connecticut,9,30
-Connecticut,10,19
-Delaware,3,21
-Delaware,4,30
-Delaware,5,31
-Delaware,6,30
-Delaware,7,31
-Delaware,8,31
-Delaware,9,30
-Delaware,10,19
-District of Columbia,3,25
-District of Columbia,4,30
-District of Columbia,5,31
-District of Columbia,6,30
-District of Columbia,7,31
-District of Columbia,8,31
-District of Columbia,9,30
-District of Columbia,10,19
-Florida,3,31
-Florida,4,30
-Florida,5,31
-Florida,6,30
-Florida,7,31
-Florida,8,31
-Florida,9,30
-Florida,10,19
-Georgia,3,30
-Georgia,4,30
-Georgia,5,31
-Georgia,6,30
-Georgia,7,31
-Georgia,8,31
-Georgia,9,30
-Georgia,10,19
-Guam,3,17
-Guam,4,30
-Guam,5,31
-Guam,6,30
-Guam,7,31
-Guam,8,31
-Guam,9,30
-Guam,10,19
-Hawaii,3,26
-Hawaii,4,30
-Hawaii,5,31
-Hawaii,6,30
-Hawaii,7,31
-Hawaii,8,31
-Hawaii,9,30
-Hawaii,10,19
-Idaho,3,19
-Idaho,4,30
-Idaho,5,31
-Idaho,6,30
-Idaho,7,31
-Idaho,8,31
-Idaho,9,30
-Idaho,10,19
-Illinois,1,8
-Illinois,2,29
-Illinois,3,31
-Illinois,4,30
-Illinois,5,31
-Illinois,6,30
-Illinois,7,31
-Illinois,8,31
-Illinois,9,30
-Illinois,10,19
-Indiana,3,26
-Indiana,4,30
-Indiana,5,31
-Indiana,6,30
-Indiana,7,31
-Indiana,8,31
-Indiana,9,30
-Indiana,10,19
-Iowa,3,24
-Iowa,4,30
-Iowa,5,31
-Iowa,6,30
-Iowa,7,31
-Iowa,8,31
-Iowa,9,30
-Iowa,10,19
-Kansas,3,25
-Kansas,4,30
-Kansas,5,31
-Kansas,6,30
-Kansas,7,31
-Kansas,8,31
-Kansas,9,30
-Kansas,10,19
-Kentucky,3,26
-Kentucky,4,30
-Kentucky,5,31
-Kentucky,6,30
-Kentucky,7,31
-Kentucky,8,31
-Kentucky,9,30
-Kentucky,10,19
-Louisiana,3,23
-Louisiana,4,30
-Louisiana,5,31
-Louisiana,6,30
-Louisiana,7,31
-Louisiana,8,31
-Louisiana,9,30
-Louisiana,10,19
-Maine,3,20
-Maine,4,30
-Maine,5,31
-Maine,6,30
-Maine,7,31
-Maine,8,31
-Maine,9,30
-Maine,10,19
-Maryland,3,27
-Maryland,4,30
-Maryland,5,31
-Maryland,6,30
-Maryland,7,31
-Maryland,8,31
-Maryland,9,30
-Maryland,10,19
-Massachusetts,2,29
-Massachusetts,3,31
-Massachusetts,4,30
-Massachusetts,5,31
-Massachusetts,6,30
-Massachusetts,7,31
-Massachusetts,8,31
-Massachusetts,9,30
-Massachusetts,10,19
-Michigan,3,22
-Michigan,4,30
-Michigan,5,31
-Michigan,6,30
-Michigan,7,31
-Michigan,8,31
-Michigan,9,30
-Michigan,10,19
-Minnesota,3,26
-Minnesota,4,30
-Minnesota,5,31
-Minnesota,6,30
-Minnesota,7,31
-Minnesota,8,31
-Minnesota,9,30
-Minnesota,10,19
-Mississippi,3,21
-Mississippi,4,30
-Mississippi,5,31
-Mississippi,6,30
-Mississippi,7,31
-Mississippi,8,31
-Mississippi,9,30
-Mississippi,10,19
-Missouri,3,25
-Missouri,4,30
-Missouri,5,31
-Missouri,6,30
-Missouri,7,31
-Missouri,8,31
-Missouri,9,30
-Missouri,10,19
-Montana,3,19
-Montana,4,30
-Montana,5,31
-Montana,6,30
-Montana,7,31
-Montana,8,31
-Montana,9,30
-Montana,10,19
-Nebraska,2,13
-Nebraska,3,31
-Nebraska,4,30
-Nebraska,5,31
-Nebraska,6,30
-Nebraska,7,31
-Nebraska,8,31
-Nebraska,9,30
-Nebraska,10,19
-Nevada,3,27
-Nevada,4,30
-Nevada,5,31
-Nevada,6,30
-Nevada,7,31
-Nevada,8,31
-Nevada,9,30
-Nevada,10,19
-New Hampshire,3,30
-New Hampshire,4,30
-New Hampshire,5,31
-New Hampshire,6,30
-New Hampshire,7,31
-New Hampshire,8,31
-New Hampshire,9,30
-New Hampshire,10,19
-New Jersey,3,28
-New Jersey,4,30
-New Jersey,5,31
-New Jersey,6,30
-New Jersey,7,31
-New Jersey,8,31
-New Jersey,9,30
-New Jersey,10,19
-New Mexico,3,21
-New Mexico,4,30
-New Mexico,5,31
-New Mexico,6,30
-New Mexico,7,31
-New Mexico,8,31
-New Mexico,9,30
-New Mexico,10,19
-New York,3,31
-New York,4,30
-New York,5,31
-New York,6,30
-New York,7,31
-New York,8,31
-New York,9,30
-New York,10,19
-North Carolina,3,29
-North Carolina,4,30
-North Carolina,5,31
-North Carolina,6,30
-North Carolina,7,31
-North Carolina,8,31
-North Carolina,9,30
-North Carolina,10,19
-North Dakota,3,21
-North Dakota,4,30
-North Dakota,5,31
-North Dakota,6,30
-North Dakota,7,31
-North Dakota,8,31
-North Dakota,9,30
-North Dakota,10,19
-Northern Mariana Islands,3,4
-Northern Mariana Islands,4,30
-Northern Mariana Islands,5,31
-Northern Mariana Islands,6,30
-Northern Mariana Islands,7,31
-Northern Mariana Islands,8,31
-Northern Mariana Islands,9,30
-Northern Mariana Islands,10,19
-Ohio,3,23
-Ohio,4,30
-Ohio,5,31
-Ohio,6,30
-Ohio,7,31
-Ohio,8,31
-Ohio,9,30
-Ohio,10,19
-Oklahoma,3,26
-Oklahoma,4,30
-Oklahoma,5,31
-Oklahoma,6,30
-Oklahoma,7,31
-Oklahoma,8,31
-Oklahoma,9,30
-Oklahoma,10,19
-Oregon,2,2
-Oregon,3,31
-Oregon,4,30
-Oregon,5,31
-Oregon,6,30
-Oregon,7,31
-Oregon,8,31
-Oregon,9,30
-Oregon,10,19
-Pennsylvania,3,26
-Pennsylvania,4,30
-Pennsylvania,5,31
-Pennsylvania,6,30
-Pennsylvania,7,31
-Pennsylvania,8,31
-Pennsylvania,9,30
-Pennsylvania,10,19
-Puerto Rico,3,19
-Puerto Rico,4,30
-Puerto Rico,5,31
-Puerto Rico,6,30
-Puerto Rico,7,31
-Puerto Rico,8,31
-Puerto Rico,9,30
-Puerto Rico,10,19
-Rhode Island,3,31
-Rhode Island,4,30
-Rhode Island,5,31
-Rhode Island,6,30
-Rhode Island,7,31
-Rhode Island,8,31
-Rhode Island,9,30
-Rhode Island,10,19
-South Carolina,3,26
-South Carolina,4,30
-South Carolina,5,31
-South Carolina,6,30
-South Carolina,7,31
-South Carolina,8,31
-South Carolina,9,30
-South Carolina,10,19
-South Dakota,3,22
-South Dakota,4,30
-South Dakota,5,31
-South Dakota,6,30
-South Dakota,7,31
-South Dakota,8,31
-South Dakota,9,30
-South Dakota,10,19
-Tennessee,3,27
-Tennessee,4,30
-Tennessee,5,31
-Tennessee,6,30
-Tennessee,7,31
-Tennessee,8,31
-Tennessee,9,30
-Tennessee,10,19
-Texas,2,18
-Texas,3,31
-Texas,4,30
-Texas,5,31
-Texas,6,30
-Texas,7,31
-Texas,8,31
-Texas,9,30
-Texas,10,19
-Utah,2,5
-Utah,3,31
-Utah,4,30
-Utah,5,31
-Utah,6,30
-Utah,7,31
-Utah,8,31
-Utah,9,30
-Utah,10,19
-Vermont,3,25
-Vermont,4,30
-Vermont,5,31
-Vermont,6,30
-Vermont,7,31
-Vermont,8,31
-Vermont,9,30
-Vermont,10,19
-Virgin Islands,3,18
-Virgin Islands,4,30
-Virgin Islands,5,31
-Virgin Islands,6,30
-Virgin Islands,7,31
-Virgin Islands,8,31
-Virgin Islands,9,30
-Virgin Islands,10,19
-Virginia,3,25
-Virginia,4,30
-Virginia,5,31
-Virginia,6,30
-Virginia,7,31
-Virginia,8,31
-Virginia,9,30
-Virginia,10,19
-Washington,1,11
-Washington,2,29
-Washington,3,31
-Washington,4,30
-Washington,5,31
-Washington,6,30
-Washington,7,31
-Washington,8,31
-Washington,9,30
-Washington,10,19
-West Virginia,3,15
-West Virginia,4,30
-West Virginia,5,31
-West Virginia,6,30
-West Virginia,7,31
-West Virginia,8,31
-West Virginia,9,30
-West Virginia,10,19
-Wisconsin,2,25
-Wisconsin,3,31
-Wisconsin,4,30
-Wisconsin,5,31
-Wisconsin,6,30
-Wisconsin,7,31
-Wisconsin,8,31
-Wisconsin,9,30
-Wisconsin,10,19
-Wyoming,3,21
-Wyoming,4,30
-Wyoming,5,31
-Wyoming,6,30
-Wyoming,7,31
-Wyoming,8,31
-Wyoming,9,30
-Wyoming,10,19
+Alabama,April,30
+Alabama,August,31
+Alabama,July,31
+Alabama,June,30
+Alabama,March,19
+Alabama,May,31
+Alabama,October,19
+Alabama,September,30
+Alaska,April,30
+Alaska,August,31
+Alaska,July,31
+Alaska,June,30
+Alaska,March,20
+Alaska,May,31
+Alaska,October,19
+Alaska,September,30
+Arizona,April,30
+Arizona,August,31
+Arizona,February,29
+Arizona,January,6
+Arizona,July,31
+Arizona,June,30
+Arizona,March,31
+Arizona,May,31
+Arizona,October,19
+Arizona,September,30
+Arkansas,April,30
+Arkansas,August,31
+Arkansas,July,31
+Arkansas,June,30
+Arkansas,March,21
+Arkansas,May,31
+Arkansas,October,19
+Arkansas,September,30
+California,April,30
+California,August,31
+California,February,29
+California,January,7
+California,July,31
+California,June,30
+California,March,31
+California,May,31
+California,October,19
+California,September,30
+Colorado,April,30
+Colorado,August,31
+Colorado,July,31
+Colorado,June,30
+Colorado,March,27
+Colorado,May,31
+Colorado,October,19
+Colorado,September,30
+Connecticut,April,30
+Connecticut,August,31
+Connecticut,July,31
+Connecticut,June,30
+Connecticut,March,24
+Connecticut,May,31
+Connecticut,October,19
+Connecticut,September,30
+Delaware,April,30
+Delaware,August,31
+Delaware,July,31
+Delaware,June,30
+Delaware,March,21
+Delaware,May,31
+Delaware,October,19
+Delaware,September,30
+District of Columbia,April,30
+District of Columbia,August,31
+District of Columbia,July,31
+District of Columbia,June,30
+District of Columbia,March,25
+District of Columbia,May,31
+District of Columbia,October,19
+District of Columbia,September,30
+Florida,April,30
+Florida,August,31
+Florida,July,31
+Florida,June,30
+Florida,March,31
+Florida,May,31
+Florida,October,19
+Florida,September,30
+Georgia,April,30
+Georgia,August,31
+Georgia,July,31
+Georgia,June,30
+Georgia,March,30
+Georgia,May,31
+Georgia,October,19
+Georgia,September,30
+Guam,April,30
+Guam,August,31
+Guam,July,31
+Guam,June,30
+Guam,March,17
+Guam,May,31
+Guam,October,19
+Guam,September,30
+Hawaii,April,30
+Hawaii,August,31
+Hawaii,July,31
+Hawaii,June,30
+Hawaii,March,26
+Hawaii,May,31
+Hawaii,October,19
+Hawaii,September,30
+Idaho,April,30
+Idaho,August,31
+Idaho,July,31
+Idaho,June,30
+Idaho,March,19
+Idaho,May,31
+Idaho,October,19
+Idaho,September,30
+Illinois,April,30
+Illinois,August,31
+Illinois,February,29
+Illinois,January,8
+Illinois,July,31
+Illinois,June,30
+Illinois,March,31
+Illinois,May,31
+Illinois,October,19
+Illinois,September,30
+Indiana,April,30
+Indiana,August,31
+Indiana,July,31
+Indiana,June,30
+Indiana,March,26
+Indiana,May,31
+Indiana,October,19
+Indiana,September,30
+Iowa,April,30
+Iowa,August,31
+Iowa,July,31
+Iowa,June,30
+Iowa,March,24
+Iowa,May,31
+Iowa,October,19
+Iowa,September,30
+Kansas,April,30
+Kansas,August,31
+Kansas,July,31
+Kansas,June,30
+Kansas,March,25
+Kansas,May,31
+Kansas,October,19
+Kansas,September,30
+Kentucky,April,30
+Kentucky,August,31
+Kentucky,July,31
+Kentucky,June,30
+Kentucky,March,26
+Kentucky,May,31
+Kentucky,October,19
+Kentucky,September,30
+Louisiana,April,30
+Louisiana,August,31
+Louisiana,July,31
+Louisiana,June,30
+Louisiana,March,23
+Louisiana,May,31
+Louisiana,October,19
+Louisiana,September,30
+Maine,April,30
+Maine,August,31
+Maine,July,31
+Maine,June,30
+Maine,March,20
+Maine,May,31
+Maine,October,19
+Maine,September,30
+Maryland,April,30
+Maryland,August,31
+Maryland,July,31
+Maryland,June,30
+Maryland,March,27
+Maryland,May,31
+Maryland,October,19
+Maryland,September,30
+Massachusetts,April,30
+Massachusetts,August,31
+Massachusetts,February,29
+Massachusetts,July,31
+Massachusetts,June,30
+Massachusetts,March,31
+Massachusetts,May,31
+Massachusetts,October,19
+Massachusetts,September,30
+Michigan,April,30
+Michigan,August,31
+Michigan,July,31
+Michigan,June,30
+Michigan,March,22
+Michigan,May,31
+Michigan,October,19
+Michigan,September,30
+Minnesota,April,30
+Minnesota,August,31
+Minnesota,July,31
+Minnesota,June,30
+Minnesota,March,26
+Minnesota,May,31
+Minnesota,October,19
+Minnesota,September,30
+Mississippi,April,30
+Mississippi,August,31
+Mississippi,July,31
+Mississippi,June,30
+Mississippi,March,21
+Mississippi,May,31
+Mississippi,October,19
+Mississippi,September,30
+Missouri,April,30
+Missouri,August,31
+Missouri,July,31
+Missouri,June,30
+Missouri,March,25
+Missouri,May,31
+Missouri,October,19
+Missouri,September,30
+Montana,April,30
+Montana,August,31
+Montana,July,31
+Montana,June,30
+Montana,March,19
+Montana,May,31
+Montana,October,19
+Montana,September,30
+Nebraska,April,30
+Nebraska,August,31
+Nebraska,February,13
+Nebraska,July,31
+Nebraska,June,30
+Nebraska,March,31
+Nebraska,May,31
+Nebraska,October,19
+Nebraska,September,30
+Nevada,April,30
+Nevada,August,31
+Nevada,July,31
+Nevada,June,30
+Nevada,March,27
+Nevada,May,31
+Nevada,October,19
+Nevada,September,30
+New Hampshire,April,30
+New Hampshire,August,31
+New Hampshire,July,31
+New Hampshire,June,30
+New Hampshire,March,30
+New Hampshire,May,31
+New Hampshire,October,19
+New Hampshire,September,30
+New Jersey,April,30
+New Jersey,August,31
+New Jersey,July,31
+New Jersey,June,30
+New Jersey,March,28
+New Jersey,May,31
+New Jersey,October,19
+New Jersey,September,30
+New Mexico,April,30
+New Mexico,August,31
+New Mexico,July,31
+New Mexico,June,30
+New Mexico,March,21
+New Mexico,May,31
+New Mexico,October,19
+New Mexico,September,30
+New York,April,30
+New York,August,31
+New York,July,31
+New York,June,30
+New York,March,31
+New York,May,31
+New York,October,19
+New York,September,30
+North Carolina,April,30
+North Carolina,August,31
+North Carolina,July,31
+North Carolina,June,30
+North Carolina,March,29
+North Carolina,May,31
+North Carolina,October,19
+North Carolina,September,30
+North Dakota,April,30
+North Dakota,August,31
+North Dakota,July,31
+North Dakota,June,30
+North Dakota,March,21
+North Dakota,May,31
+North Dakota,October,19
+North Dakota,September,30
+Northern Mariana Islands,April,30
+Northern Mariana Islands,August,31
+Northern Mariana Islands,July,31
+Northern Mariana Islands,June,30
+Northern Mariana Islands,March,4
+Northern Mariana Islands,May,31
+Northern Mariana Islands,October,19
+Northern Mariana Islands,September,30
+Ohio,April,30
+Ohio,August,31
+Ohio,July,31
+Ohio,June,30
+Ohio,March,23
+Ohio,May,31
+Ohio,October,19
+Ohio,September,30
+Oklahoma,April,30
+Oklahoma,August,31
+Oklahoma,July,31
+Oklahoma,June,30
+Oklahoma,March,26
+Oklahoma,May,31
+Oklahoma,October,19
+Oklahoma,September,30
+Oregon,April,30
+Oregon,August,31
+Oregon,February,2
+Oregon,July,31
+Oregon,June,30
+Oregon,March,31
+Oregon,May,31
+Oregon,October,19
+Oregon,September,30
+Pennsylvania,April,30
+Pennsylvania,August,31
+Pennsylvania,July,31
+Pennsylvania,June,30
+Pennsylvania,March,26
+Pennsylvania,May,31
+Pennsylvania,October,19
+Pennsylvania,September,30
+Puerto Rico,April,30
+Puerto Rico,August,31
+Puerto Rico,July,31
+Puerto Rico,June,30
+Puerto Rico,March,19
+Puerto Rico,May,31
+Puerto Rico,October,19
+Puerto Rico,September,30
+Rhode Island,April,30
+Rhode Island,August,31
+Rhode Island,July,31
+Rhode Island,June,30
+Rhode Island,March,31
+Rhode Island,May,31
+Rhode Island,October,19
+Rhode Island,September,30
+South Carolina,April,30
+South Carolina,August,31
+South Carolina,July,31
+South Carolina,June,30
+South Carolina,March,26
+South Carolina,May,31
+South Carolina,October,19
+South Carolina,September,30
+South Dakota,April,30
+South Dakota,August,31
+South Dakota,July,31
+South Dakota,June,30
+South Dakota,March,22
+South Dakota,May,31
+South Dakota,October,19
+South Dakota,September,30
+Tennessee,April,30
+Tennessee,August,31
+Tennessee,July,31
+Tennessee,June,30
+Tennessee,March,27
+Tennessee,May,31
+Tennessee,October,19
+Tennessee,September,30
+Texas,April,30
+Texas,August,31
+Texas,February,18
+Texas,July,31
+Texas,June,30
+Texas,March,31
+Texas,May,31
+Texas,October,19
+Texas,September,30
+Utah,April,30
+Utah,August,31
+Utah,February,5
+Utah,July,31
+Utah,June,30
+Utah,March,31
+Utah,May,31
+Utah,October,19
+Utah,September,30
+Vermont,April,30
+Vermont,August,31
+Vermont,July,31
+Vermont,June,30
+Vermont,March,25
+Vermont,May,31
+Vermont,October,19
+Vermont,September,30
+Virgin Islands,April,30
+Virgin Islands,August,31
+Virgin Islands,July,31
+Virgin Islands,June,30
+Virgin Islands,March,18
+Virgin Islands,May,31
+Virgin Islands,October,19
+Virgin Islands,September,30
+Virginia,April,30
+Virginia,August,31
+Virginia,July,31
+Virginia,June,30
+Virginia,March,25
+Virginia,May,31
+Virginia,October,19
+Virginia,September,30
+Washington,April,30
+Washington,August,31
+Washington,February,29
+Washington,January,11
+Washington,July,31
+Washington,June,30
+Washington,March,31
+Washington,May,31
+Washington,October,19
+Washington,September,30
+West Virginia,April,30
+West Virginia,August,31
+West Virginia,July,31
+West Virginia,June,30
+West Virginia,March,15
+West Virginia,May,31
+West Virginia,October,19
+West Virginia,September,30
+Wisconsin,April,30
+Wisconsin,August,31
+Wisconsin,February,25
+Wisconsin,July,31
+Wisconsin,June,30
+Wisconsin,March,31
+Wisconsin,May,31
+Wisconsin,October,19
+Wisconsin,September,30
+Wyoming,April,30
+Wyoming,August,31
+Wyoming,July,31
+Wyoming,June,30
+Wyoming,March,21
+Wyoming,May,31
+Wyoming,October,19
+Wyoming,September,30
