@@ -11,9 +11,11 @@ Is there a direct correlation between state political party preference and COVID
 Why does the analysis trend more heavily on one side, if at all?
 
 
-##Three main data sources used for analysis
-  The COVID Tracking Project: COVID19 test statistic data
-  Kaggle, 2016 U.S. Presidential Elections 
-  U.S. Census, 2019 Data
+## Three main data sources used for analysis
+ The COVID Tracking Project: COVID19 test statistic data
+ 
+ Kaggle, 2016 U.S. Presidential Elections 
+ 
+ U.S. Census, 2019 Data
 
 
